@@ -1,0 +1,15 @@
+{
+   "app":"pas_ref_app",
+   "owner":"system",
+   "results_file":"",
+   "results_link":"",
+   "server_host":"localhost",
+   "server_uri":"https://127.0.0.1:8089",
+   "session_key":"SET_SESSION_KEY",
+   "sid":"",
+   "search_name":"",
+   "configuration":{
+      "jive_url":"https://xxxx.jiveon.com"
+   },
+   "result":""
+}
