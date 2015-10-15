@@ -1,4 +1,4 @@
-# JIRA Alert Add-on
+# Jive Simple Stream Alerts Add-on
 
 ## Introduction
 
