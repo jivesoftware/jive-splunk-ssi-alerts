@@ -1,0 +1,22 @@
+{
+    "clientUrl": "https://ryanrutan.ngrok.io",
+    "port": "8090",
+    "development": true,
+    "clientUrlExcludesPort": true,
+    "suppressAddonRegistration": true,
+    "extensionInfo": {
+        "id": "80bbc347-f216-4456-8124-1aebd7e7c238",
+        "uuid": "80bbc347-f216-4456-8124-1aebd7e7c238",
+        "name": "splunk-alerts",
+        "description": "Jive Simple Stream Add-On for Splunk Custom Alerts",
+        "icon_16": "extension-16.png",
+        "icon_48": "extension-48.png",
+        "icon_128": "extension-128.png",
+        "author": "Ryan Rutan",
+        "author_affiliation": "Jive Software (Open Source)",
+        "author_email": "jivedev@jivesoftware.com",
+        "website_url": "https://developer.jivesoftware.com",
+        "community_url": "https://community.jivesoftware.com/community/developer",
+        "releasedOn": "2015-10-15T02:34:43.286Z"
+    }
+}
