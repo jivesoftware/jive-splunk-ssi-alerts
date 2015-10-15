@@ -1,5 +1,5 @@
 {
-    "clientUrl": "https://ryanrutan.ngrok.io",
+    "clientUrl": "http://localhost",
     "port": "8090",
     "development": true,
     "clientUrlExcludesPort": true,
